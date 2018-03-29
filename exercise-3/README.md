@@ -8,3 +8,11 @@ In your `README.md` document, provide some information about a terminal command 
 - A _list_ of information about the command (i.e., things that it does, or how it can be used).
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
+
+
+## ls command
+`ls desktop`
+1. Shows all the files
+2. Allows for people to see if there are duplicates 
+3. Be able to double check a directory
+
