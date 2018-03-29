@@ -7,7 +7,7 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 |Course  | Name      | Instructor|
 |--------|-----------| ----------|
-|INFO 340| Databases | Hay       |         |
-|INFO 201| Techincal Foundations | Freeman |
-|CSE 373 | Data Structures       | Champion|
+|**INFO 340**| _Databases_ | Hay       |         |
+|**INFO 201**| _Techincal Foundations_ | Freeman |
+|**CSE 373** | _Data Structures_       | Champion|
 
